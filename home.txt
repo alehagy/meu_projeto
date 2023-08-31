@@ -1,1 +1,2 @@
-essa e ua linha de texto!!
+essa e ua linha de texto!!  
+Teste sincronizacao local e remoto  
